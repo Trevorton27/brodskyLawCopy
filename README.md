@@ -1,6 +1,6 @@
 Hey Matt,
 
-The attached files were created using the Duplicator plugin's "once click download". I doubt you'll need it but, as a precaution, I included the following steps for installation on a different server as copied from "https://wpshout.com/quick-guides/move-a-wordpress-site-with-the-duplicator-plugin/":
+The attached files were created using the Duplicator plugin's "once click download". I doubt you'll need it but, as a precaution, I included the following steps for installation on a different server as copied from "https://wpshout.com/quick-guides/move-a-wordpress-site-with-the-duplicator-plugin/". Step 6 is the place to begin.
 
 1.Install and activate the Duplicator plugin, on the WordPress site you’re copying from.
 
@@ -12,7 +12,7 @@ The attached files were created using the Duplicator plugin's "once click downlo
 
 5.When you see “Package Completed” click the “One-Click Download” link. You should be prompted (by your web browser) to download two files. Save both.
 
-<span style="color: red; font-weight: bold; font-size: 36px;">START HERE</span>
+START HERE
 
 6.After they’ve completed the download, move the two files (installer.php and something ending with .zip) into the folder you’ll want the WordPress site in.
 
@@ -30,4 +30,4 @@ The attached files were created using the Duplicator plugin's "once click downlo
 
 13.Make sure to clean up after Duplicator. It’ll give a helpful admin notice (a banner at the top) showing you things. If you click “Take me there now!” you’ll then be on the screen to click “2. Remove Installation Files Now!” After you do that, you’re done.
 
-Let me know if it works.
+Let me know if it works. :-)
